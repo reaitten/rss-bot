@@ -12,4 +12,9 @@
     "website": "https://github.com/reaitten/rss-bot",
     "success_url": "https://t.me/orsixtyone",
     "stack": "container"
+    "addons": [
+      {
+        "plan": "heroku-postgresql"
+      }
+    ]
 }
