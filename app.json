@@ -1,0 +1,15 @@
+{
+    "name": "rss-bot",
+    "description": "A Telegram RSS Bot.",
+    "logo": "https://orsixtyone.cf/images/cover.png",
+    "keywords": [
+      "rss",
+      "telegram",
+      "python",
+      "rss-bot"
+    ],
+    "repository": "https://github.com/reaitten/rss-bot",
+    "website": "https://github.com/reaitten/rss-bot",
+    "success_url": "https://t.me/orsixtyone",
+    "stack": "container"
+}
