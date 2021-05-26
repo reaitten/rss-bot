@@ -27,4 +27,4 @@ sqlite:
   path: ./data.db
 
 allowed_users:
-#add one user id for every line.
+#separated by a space. for example "123456 789123"
