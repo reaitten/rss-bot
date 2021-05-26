@@ -7,6 +7,8 @@ Rename ``config_sample.yml`` to ``config.yml``, then add variables. Keep variabl
 
 Refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 
+Use [ElephantSQL](elephantsql.com) to save RSS configurations. Add under ``mysql``.
+
 # deployment
 Most people would go for Heroku, so I assume you must be one of those people.
 
