@@ -1,4 +1,4 @@
-FROM: ubuntu:latest
+FROM ubuntu:latest
 WORKDIR /app
 RUN chmod +x /app
 
