@@ -14,7 +14,7 @@
     "stack": "container",
     "addons": [
       {
-        "plan": "cleardb-mysql"
+        "plan": "cleardb-ignite"
       }
     ]
 }
