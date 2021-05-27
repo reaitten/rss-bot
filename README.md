@@ -7,7 +7,13 @@ Rename ``config_sample.yml`` to ``config.yml``, then add variables. Keep variabl
 
 Refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 
-Use [Heroku PostgreSQL](heroku.com) to save RSS configurations. Add under ``mysql`` in ``config.yml``.
+Use [freemysqlhosting](freemysqlhosting.net) to save RSS configurations. Add under ``mysql`` in ``config.yml``. 
+
+Example: of Variable ``CLEARDB_DATABASE_URL``
+```
+mysql://<mysql-user>:<mysql-password>@<mysql-host>/<mysql-database>
+```
+Keep ``mysql-port`` empty
 
 # deployment
 Most people would go for Heroku, so I assume you must be one of those people.
