@@ -14,7 +14,7 @@
     "stack": "container",
     "addons": [
       {
-        "plan": "heroku-postgresql"
+        "plan": "cleardb-mysql"
       }
     ]
 }
