@@ -7,7 +7,7 @@ Rename ``config_sample.yml`` to ``config.yml``, then add variables. Leave variab
 
 Refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 
-Use [freemysqlhosting](freemysqlhosting.net) to save RSS configurations. Add under ``mysql`` in ``config.yml``. 
+Use [ClearDB MySQL](https://elements.heroku.com/addons/cleardb) (for heroku) to save RSS configurations. Add under ``mysql`` in ``config.yml``. 
 
 Example: of Variable ``CLEARDB_DATABASE_URL``
 ```
