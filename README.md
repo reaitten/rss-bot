@@ -3,7 +3,7 @@ an RSS Bot. uses indes/flowerss-bot.
 
 **Please template this repo, make it private, and add your variables to ``config.yml``.**
 
-Rename ``config_sample.yml`` to ``config.yml``, then add variables. Keep variables empty if you are not using them.
+Rename ``config_sample.yml`` to ``config.yml``, then add variables. Leave variables alone if you don't know what they mean.
 
 Refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 
