@@ -13,7 +13,7 @@ Example: of Variable ``CLEARDB_DATABASE_URL``
 ```
 mysql://<mysql-user>:<mysql-password>@<mysql-host>/<mysql-database>
 ```
-Keep ``mysql-port`` empty.
+Default port number for ``mysql-port`` is ``3306``.
 
 # deployment
 Most people would go for Heroku, so I assume you must be one of those people.
