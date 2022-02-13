@@ -16,7 +16,7 @@ mysql://<mysql-user>:<mysql-password>@<mysql-host>/<mysql-database>
 Default port number for ``mysql-port`` is ``3306``.
 
 # deployment
-options include but not limited to: [heroku](heroku.com) & [railway.app](railway) 
+options include but not limited to: [heroku](http://heroku.com) & [railway](http://railway.app) 
 ## heroku
 <p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/rss-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
